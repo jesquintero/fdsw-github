@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+.hero-link {
+  display: inline-block;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
