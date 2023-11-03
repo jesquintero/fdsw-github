@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/background-image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -13,6 +13,11 @@ body {
 
 .hero-link {
   display: inline-block;
+}
+
+h4 {
+  text-transform: uppercase;
+  font-weight: 700;
 }
 
 /* Mis trabajos */
